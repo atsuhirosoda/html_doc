@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # html_doc
 html training
 
@@ -23,6 +24,11 @@ github pages sample
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/atsuhirosoda/github-pages-sample/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+=======
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/atsuhirosoda/html_doc/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+>>>>>>> 322329296f4596b40cf43c9dc080b5f0dcfea78b
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -52,9 +58,16 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
+<<<<<<< HEAD
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/atsuhirosoda/github-pages-sample/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+=======
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/atsuhirosoda/html_doc/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+>>>>>>> 322329296f4596b40cf43c9dc080b5f0dcfea78b
 
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<<<<<<< HEAD
 >>>>>>> c8bfd0c238fe4089408b48ba86592312da9ae1cc
+=======
+>>>>>>> 322329296f4596b40cf43c9dc080b5f0dcfea78b
